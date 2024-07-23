@@ -1,0 +1,12 @@
+.home-page{
+    display: flex;
+}
+
+.first{
+    background-color: red;
+
+}
+
+.second{
+    background-color: yellow;
+}
